@@ -6,7 +6,7 @@
   "dependencies": {
     "autoprefixer": "^9.6.0",
     "bootstrap": "^4.3.1",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "chalk": "^2.4.2",
     "chocolat": "^0.4.21",
     "chokidar": "^3.0.1",
